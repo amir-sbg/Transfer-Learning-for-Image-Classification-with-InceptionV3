@@ -1,4 +1,4 @@
-# Image Classification using Transfer Learning
+# Image Classification using InceptionV3 base Model
 
 - Base Model: **InceptionV3** with Frozen Weights
 - Library: TensorFlow
